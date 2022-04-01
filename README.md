@@ -1,11 +1,13 @@
-# largefilesForGithub
+<h1 align=center> Large files for Github</h1>
 
-link to download instalation *.exe file:
-[link to donwload exe file  ](https://git-lfs.github.com/)
+<h2 align=center>Step 1:</h2>
+<p align=center>
+<a href="https://git-lfs.github.com/">link to download instalation *.exe file: </a>
+</p>
 
 
-
-gitbash commands:
+<h2 align=center>Step 2:</h2>
+<p align=center>git commands:</p>
 ```
 git lfs install
 git lfs track "*.psd" 
