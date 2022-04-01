@@ -2,15 +2,23 @@
 
 <h2 align=center>Step 1:</h2>
 <p align=center>
-<a href="https://git-lfs.github.com/">link to download instalation *.exe file: </a>
+<a href="https://git-lfs.github.com/">Download and install *.exe file HERE </a>
 </p>
 
 
 <h2 align=center>Step 2:</h2>
-<p align=center>git commands:</p>
-```
-git lfs install
-git lfs track "*.psd" 
-git add .gitattributes
-```
-then the usual add, commit and push sequence
+<h3 align=center>git commands:</h3>
+
+
+
+<p align=center>git lfs install</p>
+<p align=center>git lfs track "*.psd"</p> 
+<p align=center>git add .gitattributes</p>
+
+
+<h2 align=center>Step 3:
+</h2>
+<h3 align=center>then the usual sequence:</h3>
+<p align=center>
+add, commit and push 
+</p>
